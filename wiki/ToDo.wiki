@@ -1,7 +1,7 @@
 #summary One-sentence summary of this page.
 
 = TO-DO =
-   0. adjust code layout, provide better base for ongoing dev
+   1. adjust code layout, provide better base for ongoing dev
    1. save image in user home dir (eg: ~/zsnap/ )default
-   2. create user configure file (eg: ~/.zsnap)
-   3. provide  multiple  snapshot vision effect
+   1. create user configure file (eg: ~/.zsnap)
+   1. provide  multiple  snapshot vision effect
